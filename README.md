@@ -1,4 +1,4 @@
-# springboot-aws-deploy
+:wq!# springboot-aws-deploy
 
 This is a sample microservice to deploy it on AWS ECS.
 
